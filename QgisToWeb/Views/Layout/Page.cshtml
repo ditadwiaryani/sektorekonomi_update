@@ -28,13 +28,24 @@
         <ul class="navbar-nav bg-gradient-primary sidebar sidebar-dark accordion" id="accordionSidebar">
 
             <!-- Nav Item - Dashboard -->
-            <li id="lidashboard" class="nav-item">
+            <li id="lihome" class="nav-item">
                 <a class="nav-link" href="./">
                     <i class="fas fa-fw fa-tachometer-alt"></i>
                     <span>Home</span>
                 </a>
             </li>
-
+            <li id="lipemkot" class="nav-item">
+                <a class="nav-link" href="./linkpemkot">
+                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <span>Kecamatan Mergangsang</span>
+                </a>
+            </li>
+            <li id="liform" class="nav-item">
+                <a class="nav-link" href="./linkform">
+                    <i class="fas fa-fw fa-tachometer-alt"></i>
+                    <span>Form Data</span>
+                </a>
+            </li>
             <!-- Nav Item - Charts -->
             <li id="liwebmap"  class="nav-item">
                 <a class="nav-link" href="./webmap">
@@ -47,24 +58,12 @@
             <li id="linews" class="nav-item">
                 <a class="nav-link" href="./news">
                     <i class="fas fa-fw fa-table"></i>
-                    <span>News</span>
+                    <span>Laporan</span>
                 </a>
             </li>
 
             <!-- Nav Item - Pages Collapse Menu -->
-            <li id="lilink"  class="nav-item">
-                <a class="nav-link collapsed" href="#" data-toggle="collapse" data-target="#collapseTwo" aria-expanded="true" aria-controls="collapseTwo">
-                    <i class="fas fa-fw fa-cog"></i>
-                    <span>Link</span>
-                </a>
-                <div id="collapseTwo" class="collapse" aria-labelledby="headingTwo" data-parent="#accordionSidebar">
-                    <div class="bg-white py-2 collapse-inner rounded">
-                        @*<h6 class="collapse-header">Custom Components:</h6>*@
-                        <a class="collapse-item" href="./linkform">Form Data</a>
-                        <a class="collapse-item" href="./linkpemkot">Pemkot Yogyakarta</a>
-                    </div>
-                </div>
-            </li>
+            
 
         </ul>
         <!-- End of Sidebar -->
@@ -98,17 +97,21 @@
         $('#lihome').removeClass("active");
         $('#liwebmap').removeClass("active");
         $('#linews').removeClass("active");
-        $('#lilink').removeClass("active");
+        $('#liform').removeClass("active");
+        $('#lipemkot').removeClass("active");
 
-        if (page == "home") {
+        if (page == "Home") {
             $('#lihome').addClass("active");
-        } else if (page.includes("Web Map")) {
+        } else if (page.includes("Web")) {
             $('#liwebmap').addClass("active");
         } else if (page.includes("News")) {
             $('#linews').addClass("active");
-        } else if (page.includes("Link")) {
-            $('#lilink').addClass("active");
+        } else if (page.includes("Form")) {
+            $('#liform').addClass("active");
+        } else if (page.includes("Kecamatan")) {
+            $('#lipemkot').addClass("active");
         } 
+        
     </script>
     @RenderSection("Scripts", required: false)
 </body>
