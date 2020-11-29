@@ -1,0 +1,11 @@
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade
+--output-path=obj\Release\netcoreapp2.0\
+--application-name=qgis2web_downgrade
+--content-root=D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade
+--file=D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\Views\Home\Home.cshtml
+--file=D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\Views\Home\Index.cshtml
+--file=D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\Views\Home\LinkForm.cshtml
+--file=D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\Views\Home\LinkPemkot.cshtml
+--file=D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\Views\Home\News.cshtml
+--file=D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\Views\Home\WebMap.cshtml
+--file=D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\Views\Layout\Page.cshtml

@@ -1,0 +1,15 @@
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\bin\Release\netcoreapp2.0\appsettings.Development.json
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\bin\Release\netcoreapp2.0\appsettings.json
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\bin\Release\netcoreapp2.0\bower.json
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\bin\Release\netcoreapp2.0\bundleconfig.json
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\bin\Release\netcoreapp2.0\Properties\launchSettings.json
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\bin\Release\netcoreapp2.0\qgis2web_downgrade.deps.json
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\bin\Release\netcoreapp2.0\qgis2web_downgrade.runtimeconfig.json
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\bin\Release\netcoreapp2.0\qgis2web_downgrade.runtimeconfig.dev.json
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\bin\Release\netcoreapp2.0\qgis2web_downgrade.dll
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\bin\Release\netcoreapp2.0\qgis2web_downgrade.pdb
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\obj\Release\netcoreapp2.0\qgis2web_downgrade.csprojAssemblyReference.cache
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\obj\Release\netcoreapp2.0\qgis2web_downgrade.AssemblyInfoInputs.cache
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\obj\Release\netcoreapp2.0\qgis2web_downgrade.AssemblyInfo.cs
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\obj\Release\netcoreapp2.0\qgis2web_downgrade.dll
+D:\source\repos\Pribadi\qgis2web_downgrade\qgis2web_downgrade\obj\Release\netcoreapp2.0\qgis2web_downgrade.pdb
